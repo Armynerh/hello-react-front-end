@@ -46,7 +46,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Hello World]**
-- [Frontend](https://github.com/Armynerh/hello-rails-back-end)
+- [Backend](https://github.com/Armynerh/hello-rails-back-end)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
